@@ -1,4 +1,4 @@
-# nara-portfolio
+# NarendraNusantaraH-portfolio
 This is my project
 - [Exploring the Dynamics of COVID-19: ](https://github.com/narendranush/nara-portfolio/blob/main/exploring-covid19-dataset/Exploring_The_Dynamics_of_COVID_19.ipynb) For my project titled "Exploring the Dynamics of COVID-19: A Global Analysis of Confirmed Cases, Deaths, and Recoveries" by me, Narendra Nusantara Handradika, I'm delving into the COVID-19 pandemic's far-reaching effects. This pandemic has had a profound impact on the world, affecting individuals, communities, and nations. Analyzing COVID-19 data has become crucial for governments, healthcare professionals, researchers, and the general public. My project aims to provide insights into the dynamics of the global COVID-19 pandemic by exploring and analyzing relevant data.
 - [Stock Prediction: ](https://github.com/narendranush/nara-portfolio/blob/main/stock-prediction/2502018064_No1.ipynb) Ini portfolio tentang stock prediction.
